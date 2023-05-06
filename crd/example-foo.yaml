@@ -1,0 +1,7 @@
+apiVersion: hjjzs/v1
+kind: Foo
+metadata:
+  name: hjj
+spec:
+  deploymentName: example-foo
+  replicas: 1
